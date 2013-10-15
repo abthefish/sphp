@@ -1,0 +1,4 @@
+VERSION|0.8.1|SUBJECT|hello world|CONTENT|first post.
+[img=http://amillionblogs.com/wp-content/uploads/2013/04/Blogs.jpg popup=false float=center]
+
+|TB_PING||IP-ADDRESS|10.0.2.2|CREATEDBY|admin|DATE|1381779037

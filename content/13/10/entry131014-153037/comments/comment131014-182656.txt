@@ -1,0 +1,3 @@
+VERSION|0.8.1|NAME|Administrator (class)|DATE|1381789616|CONTENT|bug list:
+- does not acknowledge comment submitted
+|IP-ADDRESS|10.0.2.2|MODERATIONFLAG|
