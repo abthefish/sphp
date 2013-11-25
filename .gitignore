@@ -1,7 +1,10 @@
 # Project Specific files #
 ######################
+*.[oa]
+*~
 password.php
 ~blog_*.tmp
+not-in-git.txt
 
 # OS generated files #
 ######################
